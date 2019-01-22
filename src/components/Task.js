@@ -36,4 +36,3 @@ Task.propTypes = {
   onArchiveTask: PropTypes.func,
   onPinTask: PropTypes.func,
 };
-
